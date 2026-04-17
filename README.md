@@ -12,14 +12,14 @@
 
 ### About
 
-QA Lead at MTS Ordering (Enablement Platform, ~47 QA across 10 tribes). 16+ years in engineering, the last two focused on bringing LLM-driven workflows into production QA: test generation from requirements, pipeline quality gates, MCP servers for internal tooling. I build tools that other engineers actually use.
+QA Lead in enterprise telecom — running an Ordering platform with ~47 QA across 10 tribes. 16+ years in engineering, the last two focused on bringing LLM-driven workflows into production QA: test generation from requirements, pipeline quality gates, MCP servers for internal tooling. I build tools that other engineers actually use.
 
 ### What I do
 
 - 🧠 **AI in QA** — pipelines that turn Jira tickets into working pytest / Allure tests, LLM quality gates for ETL, prompt libraries for 40+ testers
 - 🔌 **MCP servers** — open-source integrations (GitLab, Jaeger, NotebookLM) so agents like Claude Code and Cursor can drive real QA tooling
 - 🏭 **Test platforms from scratch** — 10+ production test environments, 4+ GitLab CI pipelines, blue/green deploys
-- 🎤 **Enablement** — internal workshops on AI for QA (47 engineers, Apr 2026), curated "Must-have AI" course track for MTS Campus
+- 🎤 **Enablement** — internal workshops on AI for QA (47 engineers, Apr 2026), curated "Must-have AI" course track for the internal learning platform
 
 ### Impact snapshot
 
@@ -46,7 +46,7 @@ MCP server that exposes GitLab CI/CD to LLM agents — pipelines, schedules, MRs
 `Python` `FastMCP` `MCP` `GitLab API` `Claude Code`
 
 #### 🧪 AIQA Pipeline
-AI-powered QA automation: test generation from Jira tasks, quality gates for ETL, Allure TestOps integration, Spec-Driven Development workflow. Used internally across Enablement Platform tribes.
+AI-powered QA automation: test generation from Jira tasks, quality gates for ETL, Allure TestOps integration, Spec-Driven Development workflow. Deployed internally across an enterprise QA org.
 
 `Python` `Jira API` `Allure` `LLM` `SDD`
 
@@ -77,8 +77,8 @@ Claude Code skill that queries your Google NotebookLM notebooks for source-groun
 
 ### Writing & Speaking
 
-- **Apr 2026** — *AI in the Tester's Workflow* — internal workshop for 47 QA engineers at MTS Enablement Platform
-- Author of MTS Campus track *"Must-have AI courses for Testers"* (8 curated modules)
+- **Apr 2026** — *AI in the Tester's Workflow* — internal workshop for 47 QA engineers in an enterprise telecom
+- Author of an internal "Must-have AI courses for Testers" learning track (8 curated modules)
 
 ---
 
