@@ -2,10 +2,28 @@
 <h3 align="center">QA Lead × AI Engineer — I turn manual QA into AI-accelerated automation</h3>
 
 <p align="center">
-  <a href="https://mshchegolev.com"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-mshchegolev.com-0A66C2?style=flat-square"></a>
-  <a href="https://mshchegolev.com/Shchegolev_Mikhail_Resume.pdf"><img alt="Resume" src="https://img.shields.io/badge/Resume-PDF-success?style=flat-square"></a>
-  <img alt="Location" src="https://img.shields.io/badge/Based_in-Turkey-red?style=flat-square">
-  <img alt="Open to" src="https://img.shields.io/badge/Open_to-AI_Engineer%20%2F%20QA%20Lead-blue?style=flat-square">
+  <a href="https://mshchegolev.com"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-mshchegolev.com-0A66C2?style=flat-square&logo=googlechrome&logoColor=white"></a>
+  <a href="https://mshchegolev.com/Shchegolev_Mikhail_Resume.pdf"><img alt="Resume" src="https://img.shields.io/badge/Resume-PDF-success?style=flat-square&logo=readthedocs&logoColor=white"></a>
+  <a href="mailto:mshegolev@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-mshegolev%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
+  <img alt="Location" src="https://img.shields.io/badge/Based_in-Turkey-red?style=flat-square&logo=googlemaps&logoColor=white">
+  <img alt="Open to" src="https://img.shields.io/badge/Open_to-AI_Engineer%20%2F%20QA%20Lead-blue?style=flat-square&logo=briefcase&logoColor=white">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white">
+  <img src="https://img.shields.io/badge/MCP-000000?style=flat-square&logo=anthropic&logoColor=white">
+  <img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white">
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white">
+  <img src="https://img.shields.io/badge/Allure-FB4F14?style=flat-square">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white">
+  <img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/ClickHouse-FFCC01?style=flat-square&logo=clickhouse&logoColor=black">
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white">
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white">
 </p>
 
 ---
@@ -30,6 +48,14 @@ QA Lead in enterprise telecom — running an Ordering platform with ~47 QA acros
 | Test environments built from scratch | 10+ |
 | CI/CD pipelines from scratch | 4+ |
 | Companies & industries | 7 |
+
+---
+
+### 🚀 Currently working on
+
+- **MCP ecosystem for QA** — building MCP servers for GitLab, Jaeger, Allure so Claude Code & Cursor can operate enterprise test infra without glue code
+- **AIQA Pipeline v4** — generating pytest + Allure tests straight from Jira tickets with LLM-driven spec validation
+- **AI-for-QA enablement** — rolling out prompt libraries and reusable agent patterns to 47+ testers across 10 tribes
 
 ---
 
@@ -75,15 +101,36 @@ Claude Code skill that queries your Google NotebookLM notebooks for source-groun
 
 ---
 
+### 📊 GitHub stats
+
+<p align="center">
+  <img alt="Mikhail's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=mshegolev&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=tokyonight&card_width=400">
+  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mshegolev&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&card_width=320">
+</p>
+
+<p align="center">
+  <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=mshegolev&theme=tokyonight&hide_border=true">
+</p>
+
+---
+
 ### Writing & Speaking
 
 - **Apr 2026** — *AI in the Tester's Workflow* — internal workshop for 47 QA engineers in an enterprise telecom
-- Author of an internal "Must-have AI courses for Testers" learning track (8 curated modules)
+- Author of an internal *"Must-have AI courses for Testers"* learning track (8 curated modules)
 
 ---
 
 ### Connect
 
-📄 [Resume (PDF)](https://mshchegolev.com/Shchegolev_Mikhail_Resume.pdf) · 🌐 [Portfolio](https://mshchegolev.com) · 📧 mshegolev@gmail.com
+<p>
+📄 <a href="https://mshchegolev.com/Shchegolev_Mikhail_Resume.pdf">Resume (PDF)</a> ·
+🌐 <a href="https://mshchegolev.com">Portfolio</a> ·
+📧 <a href="mailto:mshegolev@gmail.com">mshegolev@gmail.com</a>
+</p>
 
 <sub>Open to AI Engineer / QA Lead roles — remote-first, senior+.</sub>
+
+<p align="center">
+  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=mshegolev&style=flat-square&color=blueviolet&label=Profile+views">
+</p>
